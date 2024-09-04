@@ -1,0 +1,40 @@
+Instruktioner för Project 1 - Online CV
+Projektspecifikationer:
+1 Skapa en HTML-fil med namnet index.html.
+
+2 Använd <!DOCTYPE html>-deklarationen i början av filen för att indikera att det är ett HTML-dokument.
+
+3 Skapa en huvudsektion som innehåller ett rubrikelement med texten "Mitt CV".
+
+4 Skriv HTML-kod i huvuddelen för att skapa ett online-CV som täcker följande aspekter:
+* Sammanfattning
+
+* Utbildning (skolor och datum)
+
+* Arbetslivserfarenhet (lista jobbtitlar, arbetsgivare, datum och ansvarsområden)
+
+* Färdigheter (lista relevanta färdigheter eller expertområden)
+
+* Utmärkelser, certifieringar eller andra prestationer (lista alla relevanta utmärkelser, certifieringar eller andra prestationer)
+
+
+5 Använd lämpliga HTML-taggar för att formatera innehållet i varje avsnitt, till exempel h1 för avsnittsrubriker och ul eller ol för listor.
+
+6 Använd HTML-taggar för att lägga till en profilbild på dig själv.
+
+7 Använd relevanta ankartaggar för att skapa en webbplats med flera sidor, som listar andra aspekter av ditt CV som hobbyer och kontaktuppgifter.
+
+8 Lägg till ett sidfotselement med ditt namn och eventuell upphovsrättsinformation eller andra friskrivningar. (Tips: använd MDN-dokumenten för saker du inte vet hur man gör: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+9 Spara filen index.html och öppna den i en webbläsare för att säkerställa att den visas korrekt.
+
+10 Lägg till din webbplats på GitHub och posta en länk på Classroom.
+
+
+Krav:
+För att hålla projektet inom rimliga ramar (tid, energi, resurser) kan du bara använda HTML för att slutföra projektet.
+Även om du kan CSS och JS (vilket jag antar att du inte kan då jag inte lärt ut det ännu), förväntas du bara skriva webbplatsen med HTML.
+
+Föreställ dig att du är en professionell utvecklare som arbetar med det här projektet. Det kommer att finnas saker du inte vet,
+saker du vill göra men ännu inte har lärt dig. Som professionell utvecklare behöver du känna till gränserna för dina förmågor och leta upp
+andra saker med hjälp av internet.
